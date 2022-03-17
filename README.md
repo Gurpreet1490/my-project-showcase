@@ -4,8 +4,8 @@ Welcome to my project showcase.
 
 Here are the highlights of my most notable projects.
 
----Project 2
-## ✏️ Movie-Api (Group Project: https://github.com/debnon/Movie-API)
+
+## ✏️ Project 1: Movie-Api (Group Project: https://github.com/debnon/Movie-API)
 
 Purpose of this project was to build a fully functioning backend. We were asked create API endpoints using appropriate Http Verbs, unit tests, project should well documented and also using info endpoint to give the user information on how the application works and a /health endpoint to give the health of the application. 
 
@@ -16,8 +16,7 @@ To build this project we followed MVC approach(Model, View and Controller) and w
 We build this project to get movie recommendations based on inputted criteria, e.g. year/genre/actor/ratings/certification. This project allowed me learn alot like how to retrieve online data, how to generate JWT token for login credentials, how to bcrypt password. And i have learned from my team mates how to integrate online data with database. Also, we used twilio to send sms, so i have learned to config twilio in backend.  We have also implemented spring security to secure some endpoint like admin controller where no other user except admin has access. 
 
 
----Project 2
-## ✏️  MarsRover
+## ✏️ Project 2: MarsRover (https://github.com/Gurpreet1490/Mars-Rover-Kata)
   
 Purpose of this project was to apply TDD approach to solve the problem. 
 We were asked to move rovers around the surface of Mars. 
@@ -29,8 +28,8 @@ I created different classes, enum (for fixed values) and exception handling clas
 
 This assignment made me learn how to implement my own exception handling, separate of concern and usage of enum and also how to use switch condition. And how to create UML diagram. 
 
----Project 3
-## ✏️ Cinnamon-Cinemas-TDD
+
+## ✏️ Project 3 : Cinnamon-Cinemas-TDD (https://github.com/Gurpreet1490/Cinnamon-Cinemas-TDD)
   
 Purpose of this project was to apply TDD approach to solve the kata.
 
